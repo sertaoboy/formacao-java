@@ -1,0 +1,37 @@
+[
+  {
+    "Nome": "Saving Private Ryan",
+    "AnoDelancamento": 1998,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 16
+  },
+  {
+    "Nome": "Matrix",
+    "AnoDelancamento": 1993,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 60
+  },
+  {
+    "Nome": "Top Gun",
+    "AnoDelancamento": 1986,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 10
+  },
+  {
+    "Nome": "Dogville",
+    "AnoDelancamento": 2003,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 17
+  },
+  {
+    "Nome": "Sair",
+    "AnoDelancamento": 2020,
+    "SomaAvaliacao": 0.0,
+    "TotalAvaliacoes": 0,
+    "DuracaoEmMinutos": 99
+  }
+]
